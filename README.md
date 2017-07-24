@@ -2,7 +2,7 @@
 Proyecto presentado en Visualizar'17, Medialab Prado
 
 ## Resumen del proyecto
-En España, hay hombres y mujeres que cuando son padres deciden migrar al planeta de la excedencia por cuidado de hijos. En ocasiones, es una migración sin retorno al mundo laboral. Este proyecto quiere visualizar esta realidad y profundizar en ella para analizar cuánto de voluntaria es esta opción como posible forma de conciliación entre la vida laboral y la familiar.
+En España, hay hombres y mujeres que cuando son padres deciden **migrar al planeta de la excedencia por cuidado de hijos**. En ocasiones, es una migración sin retorno al mundo laboral. Este proyecto quiere visualizar esta realidad y profundizar en ella para analizar **cuánto de voluntaria es esta opción** como posible forma de conciliación entre la vida laboral y la familiar.
 
 ## Descripción
 Hablamos de la excedencia por cuidado de hijos, una posible vía de conciliación laboral y familiar, y nos planteamos cuánto de voluntaria es esta opción. Para ello preguntaremos a los escasos datos disponibles, emitiremos peticiones de transparencia y diseñaremos una encuesta que nos dé pistas sobre la información que desconocemos. 
