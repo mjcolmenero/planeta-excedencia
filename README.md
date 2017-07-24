@@ -6,8 +6,11 @@ En España, hay hombres y mujeres que cuando son padres deciden migrar al planet
 
 ## Descripción
 Hablamos de la excedencia por cuidado de hijos, una posible vía de conciliación laboral y familiar, y nos planteamos cuánto de voluntaria es esta opción. Para ello preguntaremos a los escasos datos disponibles, emitiremos peticiones de transparencia y diseñaremos una encuesta que nos dé pistas sobre la información que desconocemos. 
+
 Queremos saber cómo son quienes piden una excedencia por cuidado de hijos y por qué lo hacen: sexo, número de hijos, situación laboral, sector en el que trabajan, tiempo solicitado de excedencia, edad en la que solicitan la excedencia, evolución de las peticiones en los últimos años, ámbito geográfico, tránsito al trabajo por cuenta propia. 
+
 Los datos más actuales (Ministerio de Empleo y Seguridad Social) solo nos dan cifras totales por sexo y comunidad autónoma para el periodo 2005-2016 (pedido a Prensa del Ministerio que nos confirme si la información se refiere al número de excedencias por cuidado de hijo concedidas cada año porque en la tabla solo pone “excedencia por cuidado de hijos”).
+
 Nos llama la atención y, al mismo tiempo, nos anima a presentar esta propuesta, el hecho de que los datos más actuales que hemos encontrado del INE sobre conciliación entre la vida laboral y familiar se quedan ¡en 2010!
 
 **Fuentes de información**
