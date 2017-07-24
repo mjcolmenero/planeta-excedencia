@@ -18,10 +18,10 @@ Nos llama la atención y, al mismo tiempo, nos anima a presentar esta propuesta,
 * Informe “Conciliación de la vida laboral, familiar y personal”, Ministerio de Igualdad, 2010 http://www.ib.ccoo.es/comunes/recursos/12/doc22183_Conciliacion_de_la_vida_laboral,_familiar_y_personal._.pdf 
 
 ## Perfiles de colaboradores necesarios
-Periodistas
-Sociólogos (diseño de la encuesta)
-Ilustradores y diseñadores
-Programadores
+* Periodistas
+* Sociólogos (diseño de la encuesta)
+* Ilustradores y diseñadores
+* Programadores
 
 ## Project summary
 Having a childcare leave in Spain can be a way of work-life balance. We would ask to data if this practice is really voluntary and explore the differences in labour market performances between women and men. Data for Spain is only available until 2010 so we will design a survey and request more data. 
