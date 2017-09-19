@@ -4,7 +4,8 @@ library(stringr)
 setwd('~/Documents/_projects/2017/visualizar/planeta-excedencia/data_encuesta/')
 
 ### -- -- -- read the data -- -- -- ### 
-rawData <- read.csv('Excedencia-report.csv', stringsAsFactors = FALSE)
+rawData <- read.csv('Excedencia-report.csv', stringsAsFactors = FALSE, skip = 6)
+
 data <- data.frame() # new data frame to store the clean data
 
 
