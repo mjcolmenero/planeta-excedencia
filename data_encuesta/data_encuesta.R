@@ -196,8 +196,11 @@ for (i in 1:nrow(rawData)) {
 }
 
 ### -- -- -- sort columns -- -- -- ###
-data <- data[,order(colnames(data))]
+for (i in 1:nrow(data)) {
+  data$q00_id[i] <- paste('id_', i, sep = '')
+}
 
+data <- data[,order(colnames(data))]
 
 write.csv(data, 'encuesta_output.csv', row.names = F)
 
