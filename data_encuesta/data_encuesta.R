@@ -4,7 +4,8 @@ library(stringr)
 setwd('~/Documents/_projects/2017/visualizar/planeta-excedencia/data_encuesta/')
 
 ### -- -- -- read the data -- -- -- ### 
-rawData <- read.csv('Excedencia-report.csv', stringsAsFactors = FALSE, skip = 6)
+rawData <- read.csv('Excedencia-report.csv', stringsAsFactors = FALSE, header = TRUE)
+rawData <- rawData[6:nrow(rawData), ]
 
 data <- data.frame() # new data frame to store the clean data
 
@@ -87,6 +88,10 @@ data$q28_comments <- as.vector(rawData[ ,66])
 
 # column 67: genre
 data$q29_genre <- as.vector(rawData[ ,67])
+
+# column 68: age
+data$q29_age <- as.vector(rawData[ ,68])
+
 
 # column 69: civil status
 data$q31_civil_status <- as.vector(rawData[ ,69])
@@ -197,7 +202,7 @@ for (i in 1:nrow(rawData)) {
 
 ### -- -- -- sort columns -- -- -- ###
 for (i in 1:nrow(data)) {
-  data$q00_id[i] <- paste('id_', i, sep = '')
+  data$q00_id[i] <- i
 }
 
 data <- data[,order(colnames(data))]
