@@ -207,6 +207,16 @@ for (i in 1:nrow(data)) {
 
 data <- data[,order(colnames(data))]
 
+## test
+data$origen <- 'new'
+old_data$origen <- 'old'
+
+test <- rbind(data, old_data)
+test <- melt(test, id.vars = c('q00_id', 'origen'))
+test <-  dcast(test, q00_id + variable ~ origen)
+test[test$new != test$old, ]
+## -- end test
+
 write.csv(data, 'encuesta_output.csv', row.names = F)
 
 
