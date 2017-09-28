@@ -8,8 +8,8 @@ Recuerda que las **respuestas** son **anónimas** y lo que nos cuentes no saldr�
 Los resultados de esta encuesta formarán parte del proyecto de visualización de datos “Planeta excedencia” de Visualizar’17, una iniciativa de Medialab-Prado. Al final de la encuesta puedes proporcionar tu correo para que te informemos de los resultados obtenidos.
 
 Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.excedencia@gmail
-##### 1. Para situarnos, un par de preguntas rápidas sobre tu familia y tu situación.#####
-#####¿Podrías decirnos cuántos hijos tienes?*#####
+##### 1. Para situarnos, un par de preguntas rápidas sobre tu familia y tu situación. #####
+##### ¿Podrías decirnos cuántos hijos tienes?* #####
       Se pueden seleccionar varias opciones
         ◦ 1 
         ◦ 2 
@@ -18,7 +18,7 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ 5 
         ◦ Otro 
      
-##### 2. ¿En qué año/s nacieron?*#####
+##### 2. ¿En qué año/s nacieron?* #####
       Se pueden seleccionar varias opciones
         ◦ 2005 
         ◦ 2006 
@@ -43,18 +43,18 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ No, no cuento con nadie más 
         ◦ Otro 
       
-#####4. A continuación, nos gustaría conocer tu experiencia con la excedencia por cuidado de hijos pequeños.#####
+##### 4. A continuación, nos gustaría conocer tu experiencia con la excedencia por cuidado de hijos pequeños.#####
 
-#####¿Solicitaste excedencia para todos tus hijos?*#####
+##### ¿Solicitaste excedencia para todos tus hijos?*#####
         ◦ Sí 
         ◦ No 
-#####5. ¿Cuál fue la duración de tu primera excedencia en meses (y orden de hijo)?#####
+##### 5. ¿Cuál fue la duración de tu primera excedencia en meses (y orden de hijo)?#####
     
-#####6. En caso de haber disfrutado de una segunda excedencia, ¿cuál fue su duración en meses (y orden de hijo)?#####
+##### 6. En caso de haber disfrutado de una segunda excedencia, ¿cuál fue su duración en meses (y orden de hijo)?#####
      
-#####7. Si has disfrutado de más de dos excedencias, indica por favor el número y duración (en meses) del resto de excedencias.#####
+##### 7. Si has disfrutado de más de dos excedencias, indica por favor el número y duración (en meses) del resto de excedencias.#####
       
-#####8. ¿Cuál fue el motivo principal por el que solicitaste la/s excedencia/s?*#####
+##### 8. ¿Cuál fue el motivo principal por el que solicitaste la/s excedencia/s?*#####
       Se pueden seleccionar varias opciones
         ◦ Mi puesto de trabajo no permitía la conciliación con la vida familiar 
         ◦ Salud de la madre (posparto complicado, etc.) 
@@ -65,7 +65,7 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ Quería dedicarme por completo a mi/s hijo/s 
         ◦ Otro 
       
-#####9. ¿Qué otros motivos te llevaron a solicitar la/s excedencia/s?
+##### 9. ¿Qué otros motivos te llevaron a solicitar la/s excedencia/s?
       Se pueden seleccionar varias opciones
         ◦ Quería dedicarme por completo a mi/s hijo/s 
         ◦ No tenía una opción real de adaptar la jornada a mis necesidades familiares 
