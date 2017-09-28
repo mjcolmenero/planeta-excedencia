@@ -43,18 +43,18 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ No, no cuento con nadie más 
         ◦ Otro 
       
-##### 4. A continuación, nos gustaría conocer tu experiencia con la excedencia por cuidado de hijos pequeños.#####
+##### 4. A continuación, nos gustaría conocer tu experiencia con la excedencia por cuidado de hijos pequeños. #####
 
 ##### ¿Solicitaste excedencia para todos tus hijos?*#####
         ◦ Sí 
         ◦ No 
-##### 5. ¿Cuál fue la duración de tu primera excedencia en meses (y orden de hijo)?#####
+##### 5. ¿Cuál fue la duración de tu primera excedencia en meses (y orden de hijo)? #####
     
-##### 6. En caso de haber disfrutado de una segunda excedencia, ¿cuál fue su duración en meses (y orden de hijo)?#####
+##### 6. En caso de haber disfrutado de una segunda excedencia, ¿cuál fue su duración en meses (y orden de hijo)? #####
      
-##### 7. Si has disfrutado de más de dos excedencias, indica por favor el número y duración (en meses) del resto de excedencias.#####
+##### 7. Si has disfrutado de más de dos excedencias, indica por favor el número y duración (en meses) del resto de excedencias. #####
       
-##### 8. ¿Cuál fue el motivo principal por el que solicitaste la/s excedencia/s?*#####
+##### 8. ¿Cuál fue el motivo principal por el que solicitaste la/s excedencia/s?* #####
       Se pueden seleccionar varias opciones
         ◦ Mi puesto de trabajo no permitía la conciliación con la vida familiar 
         ◦ Salud de la madre (posparto complicado, etc.) 
@@ -65,7 +65,7 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ Quería dedicarme por completo a mi/s hijo/s 
         ◦ Otro 
       
-##### 9. ¿Qué otros motivos te llevaron a solicitar la/s excedencia/s?
+##### 9. ¿Qué otros motivos te llevaron a solicitar la/s excedencia/s? #####
       Se pueden seleccionar varias opciones
         ◦ Quería dedicarme por completo a mi/s hijo/s 
         ◦ No tenía una opción real de adaptar la jornada a mis necesidades familiares 
@@ -76,21 +76,21 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ No contaba con ayuda externa de familiares 
         ◦ tro 
       
-#####10. En caso de que los motivos para solicitar una excedencia fueran muy diferentes de un hijo a otro,#####
-#####¿cuáles fueron los motivos en los distintos casos?#####
+##### 10. En caso de que los motivos para solicitar una excedencia fueran muy diferentes de un hijo a otro, #####
+##### ¿cuáles fueron los motivos en los distintos casos? #####
       
-#####11. El otro progenitor, ¿solicitó también una excedencia para cuidar del hijo/s?*#####
+##### 11. El otro progenitor, ¿solicitó también una excedencia para cuidar del hijo/s?* #####
         ◦ Sí 
         ◦ No 
         
-#####12. Si el otro progenitor NO solicitó excedencia, ¿cuáles fueron los motivos principales?#####
+##### 12. Si el otro progenitor NO solicitó excedencia, ¿cuáles fueron los motivos principales? #####
       Se pueden seleccionar varias opciones
         ◦ No nos planteamos esa opción 
         ◦ Decidimos que era mejor que la tomara solo yo por una cuestión económica 
         ◦ No aplica 
         ◦ Otro 
       
-#####13. Pensando en tu puesto de trabajo cuando solicitaste la/s excedencia/s, ¿qué opciones de conciliación familia-trabajo facilita tu empresa?*#####
+##### 13. Pensando en tu puesto de trabajo cuando solicitaste la/s excedencia/s, ¿qué opciones de conciliación familia-trabajo facilita tu empresa?* #####
       Se pueden seleccionar varias opciones
         ◦ Reducción de jornada 
         ◦ Flexibilidad de horario 
@@ -98,28 +98,28 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ No facilita ninguna de estas opciones 
         ◦ Otro 
      
-#####14. ¿Cómo reaccionó la dirección de tu empresa cuando cogiste la excedencia?*#####
+##### 14. ¿Cómo reaccionó la dirección de tu empresa cuando cogiste la excedencia?* #####
       Se pueden seleccionar varias opciones
         ◦ Comprensión 
         ◦ Indiferencia 
         ◦ Hostilidad 
         ◦ Otro 
       
-#####15. Y tus compañeros, ¿cómo reaccionaron cuando cogiste la excedencia?*#####
+##### 15. Y tus compañeros, ¿cómo reaccionaron cuando cogiste la excedencia?* #####
       Se pueden seleccionar varias opciones
         ◦ Comprensión 
         ◦ Indiferencia 
         ◦ Hostilidad 
         ◦ Otro 
       
-#####16. Durante la excedencia, ¿disponías de tiempo para mantenerte al día y progresar en tu campo profesional?*#####
+##### 16. Durante la excedencia, ¿disponías de tiempo para mantenerte al día y progresar en tu campo profesional?* #####
       Se pueden seleccionar varias opciones
         ◦ Sí, compaginé el cuidado del hijo con formación / actividades para estar al día en mi profesión. 
         ◦ No, recurrí a una escuela infantil/cuidador/similar para tener tiempo 
         ◦ Ni me lo planteé, me centré en cuidar a mi/s hijo/s 
         ◦ Otro 
       
-#####17. Durante la excedencia, ¿realizaste trabajo remunerado?*#####
+##### 17. Durante la excedencia, ¿realizaste trabajo remunerado?* #####
       Se pueden seleccionar varias opciones
         ◦Sí, por cuenta ajena 
         ◦ Sí, por cuenta propia 
@@ -127,7 +127,7 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ No 
         ◦ Otro 
      
-#####18. ¿Cómo fue la reincorporación al mundo laboral después de la excedencia?*
+##### 18. ¿Cómo fue la reincorporación al mundo laboral después de la excedencia?* ##### 
       Se pueden seleccionar varias opciones
         ◦  Volví al mismo puesto con la misma jornada 
         ◦ Cambié de puesto 
@@ -138,14 +138,14 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ Salí del mercado laboral 
         ◦ Otro 
       
-#####19. En cuanto a las funciones que desempeñas, dirías que después de la excedencia...*#####
+##### 19. En cuanto a las funciones que desempeñas, dirías que después de la excedencia...* #####
       Se pueden seleccionar varias opciones
         ◦ Realicé la misma actividad que antes de la excedencia 
         ◦ Asumí tareas de mayor responsabilidad 
         ◦ Realicé trabajos de menor responsabilidad 
         ◦ Otro 
       
-#####20. Si hace más de 3 años que terminó la última excedencia, ¿cuál dirías que es tu situación profesional actual?#####
+##### 20. Si hace más de 3 años que terminó la última excedencia, ¿cuál dirías que es tu situación profesional actual? #####
       Se pueden seleccionar varias opciones
         ◦ Es de mayor rango 
         ◦ Es de menor rango 
@@ -154,7 +154,7 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ No estoy trabajando actualmente 
         ◦ Otro 
       
-#####21. Pensando ahora en tu experiencia general durante la/s excedencia/s que has tenido ¿Cómo valoras el sistema de excedencia por cuidado de hijo/a?*#####
+##### 21. Pensando ahora en tu experiencia general durante la/s excedencia/s que has tenido ¿Cómo valoras el sistema de excedencia por cuidado de hijo/a?* #####
         ◦ 1
         ◦ 2
         ◦ 3
@@ -166,18 +166,18 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ Neutro
         ◦ Positivamente
         
-#####22. Si pudieras cambiar el sistema de excedencias por cuidado de hijo/s, ¿harías alguna mejora?*#####
+##### 22. Si pudieras cambiar el sistema de excedencias por cuidado de hijo/s, ¿harías alguna mejora?* #####
       Se pueden seleccionar varias opciones
         ◦ Sí, creo que necesita alguna mejora. 
         ◦ No, considero que funciona bien. 
         ◦ Otro 
      
-#####23. En caso de creer que el sistema de excedencias necesite alguna mejora,¿qué mejoras propondrías?#####
+##### 23. En caso de creer que el sistema de excedencias necesite alguna mejora,¿qué mejoras propondrías? #####
       Para añadir un párrafo oprime: SHIFT + ENTER 
       Ok 
       presionar ENTER
       
-#####24.Basándote en tu experiencia con las opciones de conciliación entre la vida familiar y la vida laboral,¿cómo valoras las opciones disponibles de conciliación familiar?*#####
+##### 24.Basándote en tu experiencia con las opciones de conciliación entre la vida familiar y la vida laboral,¿cómo valoras las opciones disponibles de conciliación familiar?* #####
         ◦ 1
         ◦ 2
         ◦ 3
@@ -189,32 +189,32 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ Neutro
         ◦ Positivamente
         
-#####25. ¿Crees que es necesario introducir mejoras en el sistema de conciliación familiar – laboral?*#####
+##### 25. ¿Crees que es necesario introducir mejoras en el sistema de conciliación familiar – laboral?* #####
       Se pueden seleccionar varias opciones
         ◦ Sí, creo que necesita alguna mejora. 
         ◦ No, considero que funciona bien. 
         ◦ Otro 
     
-#####26. En caso de creer que el sistema de conciliación familiar – laboral necesite alguna mejora, ¿qué mejoras propondías?#####
+##### 26. En caso de creer que el sistema de conciliación familiar – laboral necesite alguna mejora, ¿qué mejoras propondías? #####
      
-#####27. Para terminar de conocer tu situación y pensando en todo el proceso de excedencia: solicitud, motivaciones, período de excedencia, reincorporación laboral, conciliación....#####
+##### 27. Para terminar de conocer tu situación y pensando en todo el proceso de excedencia: solicitud, motivaciones, período de excedencia, reincorporación laboral, conciliación.... #####
 
-#####¿Podrías resumir en tres palabras o expresiones tu experiencia con la excedencia por cuidado de hijos?#####
+##### ¿Podrías resumir en tres palabras o expresiones tu experiencia con la excedencia por cuidado de hijos? #####
     
-#####28. ¿Hay algo más de tu experiencia con la excedencia que no te hayamos preguntado y nos quieras contar?#####
+##### 28. ¿Hay algo más de tu experiencia con la excedencia que no te hayamos preguntado y nos quieras contar? #####
       
-#####29. Por último, unas preguntas muy rápidas sobre ti.#####
-#####Queremos saber quién eres...*#####
+##### 29. Por último, unas preguntas muy rápidas sobre ti. #####
+##### Queremos saber quién eres...* #####
       Se pueden seleccionar varias opciones
         ◦ Mujer 
         ◦ Hombre 
         ◦ Otros 
         ◦ Prefiero no contestar 
      
-#####30. ¿En qué año naciste?*#####
+##### 30. ¿En qué año naciste?* #####
       En número por favor. Ejemplo: 1980 
      
-#####31. ¿Cuál es tu estado civil?*#####
+#####  31. ¿Cuál es tu estado civil?*#####
       Se pueden seleccionar varias opciones
         ◦ Casado/a 
         ◦ Pareja de hecho 
@@ -224,7 +224,7 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ Separado/a 
         ◦ Viudo/a 
       
-#####32. ¿Cuál es tu nivel de formación?*#####
+##### 32. ¿Cuál es tu nivel de formación?* #####
       Se pueden seleccionar varias opciones
         ◦ Estudios primarios 
         ◦ Estudios secundarios 
@@ -232,20 +232,20 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ Estudios superiores (diplomatura/licenciatura/ingenieria) 
         ◦ Doctorado 
       
-#####33.       ¿Y tu situación profesional?*#####
+##### 33. ¿Y tu situación profesional?* #####
       Se pueden seleccionar varias opciones
         ◦ Trabajo en el sector privado 
         ◦ Trabajo en el sector público 
         ◦ Trabajo por cuenta propia 
         ◦ Otro 
       
-#####34 Tu contrato es...*#####
+##### 34 Tu contrato es...* #####
       Se pueden seleccionar varias opciones
         ◦ Indefinido 
         ◦ Temporal 
         ◦ Otro 
      
-#####35. ¿Cuál era tu salario medio anual (bruto) cuando solicitaste la excedencia?*#####
+##### 35. ¿Cuál era tu salario medio anual (bruto) cuando solicitaste la excedencia?* #####
       Se pueden seleccionar varias opciones
         ◦ Menos de 15.000 euros 
         ◦ Entre 15.001 y 25.000 euros 
@@ -255,7 +255,7 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ Prefiero no contestar 
         ◦ No lo recuerdo 
     
-#####36. ¡Es todo! Solo falta darle a "enviar".#####
+##### 36. ¡Es todo! Solo falta darle a "enviar". #####
 
 
 **¡Muchísimas gracias por tu tiempo!**
